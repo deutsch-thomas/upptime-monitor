@@ -17,6 +17,7 @@ sites:
     url: https://bluectrl.app/home
   - name: BlueCtrl-CFE
     url: https://bluectrl.cfe-computing.com/home
+    maxResponseTime: 5000
   - name: Stage-BlueCtrl-CFE
     url: https://stage.bluectrl.cfe-computing.com/home
   - name: Dev-BlueCtrl-CFE
