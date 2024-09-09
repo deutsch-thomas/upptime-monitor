@@ -44,7 +44,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Uptime** Service."
-  introMessage: Hier siehst du den Status alles überwachten Services:
+  introMessage: Hier siehst du den Status aller überwachten Services
   navbar:
     - title: Status
       href: /
