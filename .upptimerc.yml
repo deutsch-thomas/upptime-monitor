@@ -10,7 +10,7 @@ sites:
   - name: RabbitMQ
     url: https://monitor.bluectrl.app:15672/
   - name: Loki
-    url: https://monitor.bluectrl.app:3100/
+    url: https://monitor.bluectrl.app:3100/services
     headers:
       - "Authorization: $Loki_Auth"    
   - name: Live-BlueCtrl
