@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitor.bluectrl.app.ico",
     "slug": "loki",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 356,
     "timeDay": 356,
     "timeWeek": 356,
     "timeMonth": 356,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2024-09-09": 27
+      "2024-09-09": 36
     }
   },
   {
@@ -108,7 +108,7 @@
     "timeMonth": 576,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2024-09-09": 27
+      "2024-09-09": 36
     }
   },
   {
@@ -117,18 +117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage.bluectrl.cfe-computing.com.ico",
     "slug": "stage-blue-ctrl-cfe",
     "status": "down",
-    "uptime": "0.09%",
-    "uptimeDay": "0.09%",
-    "uptimeWeek": "0.09%",
-    "uptimeMonth": "0.09%",
-    "uptimeYear": "0.09%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 579,
     "timeDay": 579,
     "timeWeek": 579,
     "timeMonth": 579,
     "timeYear": 579,
     "dailyMinutesDown": {
-      "2024-09-09": 27
+      "2024-09-09": 35
     }
   },
   {
@@ -137,11 +137,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.bluectrl.cfe-computing.com.ico",
     "slug": "dev-blue-ctrl-cfe",
     "status": "up",
-    "uptime": "41.23%",
-    "uptimeDay": "41.23%",
-    "uptimeWeek": "41.23%",
-    "uptimeMonth": "41.23%",
-    "uptimeYear": "41.23%",
+    "uptime": "55.25%",
+    "uptimeDay": "55.25%",
+    "uptimeWeek": "55.25%",
+    "uptimeMonth": "55.25%",
+    "uptimeYear": "55.25%",
     "time": 463,
     "timeDay": 463,
     "timeWeek": 463,
@@ -168,7 +168,7 @@
     "timeMonth": 571,
     "timeYear": 571,
     "dailyMinutesDown": {
-      "2024-09-09": 26
+      "2024-09-09": 35
     }
   },
   {
@@ -213,11 +213,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.api.cfe-computing.com.ico",
     "slug": "stage-api-blue-ctrl-cfe",
     "status": "up",
-    "uptime": "2.43%",
-    "uptimeDay": "2.43%",
-    "uptimeWeek": "2.43%",
-    "uptimeMonth": "2.43%",
-    "uptimeYear": "2.43%",
+    "uptime": "26.09%",
+    "uptimeDay": "26.09%",
+    "uptimeWeek": "26.09%",
+    "uptimeMonth": "26.09%",
+    "uptimeYear": "26.09%",
     "time": 397,
     "timeDay": 397,
     "timeWeek": 397,
@@ -233,11 +233,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage.api.cfe-computing.com.ico",
     "slug": "dev-api-blue-ctrl-cfe",
     "status": "up",
-    "uptime": "0.52%",
-    "uptimeDay": "0.52%",
-    "uptimeWeek": "0.52%",
-    "uptimeMonth": "0.52%",
-    "uptimeYear": "0.52%",
+    "uptime": "25.01%",
+    "uptimeDay": "25.01%",
+    "uptimeWeek": "25.01%",
+    "uptimeMonth": "25.01%",
+    "uptimeYear": "25.01%",
     "time": 555,
     "timeDay": 555,
     "timeWeek": 555,
@@ -252,17 +252,19 @@
     "url": "https://demo.api.cfe-computing.com/docs",
     "icon": "https://icons.duckduckgo.com/ip3/demo.api.cfe-computing.com.ico",
     "slug": "demo-api-blue-ctrl-cfe",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
     "time": 3384,
     "timeDay": 3384,
     "timeWeek": 3384,
     "timeMonth": 3384,
     "timeYear": 3384,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-09": 0
+    }
   }
 ]
