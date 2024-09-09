@@ -3,8 +3,35 @@ owner: deutsch-thomas # Your GitHub organization or username, where this reposit
 repo: upptime-monitor # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Grafana
+    url: https://monitor.bluectrl.app/
+  - name: InfluxDB
+    url: https://monitor.bluectrl.app:8443/
+  - name: RabbitMQ
+    url: https://monitor.bluectrl.app:15672/
+  - name: Loki
+    url: https://monitor.bluectrl.app:3100/
+  - name: Live-BlueCtrl
+    url: https://bluectrl.app/home
+  - name: BlueCtrl-CFE
+    url: https://bluectrl.cfe-computing.com/home
+  - name: Stage-BlueCtrl-CFE
+    url: https://stage.bluectrl.cfe-computing.com/home
+  - name: Dev-BlueCtrl-CFE
+    url: https://dev.bluectrl.cfe-computing.com/home
+  - name: Demo-BlueCtrl-CFE
+    url: https://demo.bluectrl.cfe-computing.com/home
+  - name: Live-API-BlueCtrl
+    url: https://api.bluectrl.app/docs#/
+  - name: API-BlueCtrl-CFE
+    url: https://api.cfe-computing.com/docs
+  - name: Stage-API-BlueCtrl-CFE
+    url: https://dev.api.cfe-computing.com/docs
+  - name: Dev-API-BlueCtrl-CFE
+    url: https://stage.api.cfe-computing.com/docs
+  - name: DemoAPI-BlueCtrl-CFE
+    url: https://demo.api.cfe-computing.com/docs
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
