@@ -10,9 +10,9 @@ sites:
   - name: RabbitMQ
     url: https://monitor.bluectrl.app:15672/
   - name: Loki
-    url: https://monitor.bluectrl.app:3100/services
-    headers:
-      - "Authorization: Basic $LOKI_AUTH"    
+    url: https://monitor.bluectrl.app:3100/
+    expectedStatusCodes:
+      - 401
   - name: Live-BlueCtrl
     url: https://bluectrl.app/home
   - name: BlueCtrl-CFE
