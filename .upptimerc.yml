@@ -11,6 +11,8 @@ sites:
     url: https://monitor.bluectrl.app:15672/
   - name: Loki
     url: https://monitor.bluectrl.app:3100/
+    headers:
+      - "Authorization: $Loki_Auth"    
   - name: Live-BlueCtrl
     url: https://bluectrl.app/home
   - name: BlueCtrl-CFE
