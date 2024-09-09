@@ -53,3 +53,6 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+NOTIFICATION_TELEGRAM: true
+NOTIFICATION_TELEGRAM_BOT_KEY: $BOT_KEY
+NOTIFICATION_TELEGRAM_CHAT_ID: $CHAT_KEY
