@@ -14,16 +14,16 @@ sites:
     expectedStatusCodes:
       - 401
   - name: Live-BlueCtrl
-    url: https://bluectrl.app/home
+    url: https://bluectrl.app
   - name: BlueCtrl-CFE
-    url: https://bluectrl.cfe-computing.com/home
+    url: https://bluectrl.cfe-computing.com
     maxResponseTime: 5000
   - name: Stage-BlueCtrl-CFE
-    url: https://stage.bluectrl.cfe-computing.com/home
+    url: https://stage.bluectrl.cfe-computing.com
   - name: Dev-BlueCtrl-CFE
-    url: https://dev.bluectrl.cfe-computing.com/home
+    url: https://dev.bluectrl.cfe-computing.com
   - name: Demo-BlueCtrl-CFE
-    url: https://demo.bluectrl.cfe-computing.com/home
+    url: https://demo.bluectrl.cfe-computing.com
   - name: Live-API-BlueCtrl
     url: https://api.bluectrl.app/docs#/
   - name: API-BlueCtrl-CFE
