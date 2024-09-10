@@ -28,9 +28,9 @@ sites:
     url: https://api.bluectrl.app/docs#/
   - name: API-BlueCtrl-CFE
     url: https://api.cfe-computing.com/docs
-  - name: Stage-API-BlueCtrl-CFE
-    url: https://dev.api.cfe-computing.com/docs
   - name: Dev-API-BlueCtrl-CFE
+    url: https://dev.api.cfe-computing.com/docs
+  - name: Stage-API-BlueCtrl-CFE
     url: https://stage.api.cfe-computing.com/docs
   - name: DemoAPI-BlueCtrl-CFE
     url: https://demo.api.cfe-computing.com/docs
