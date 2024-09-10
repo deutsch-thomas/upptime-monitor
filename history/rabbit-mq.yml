@@ -1,7 +1,7 @@
 url: https://monitor.bluectrl.app:15672/
-status: down
-code: 503
-responseTime: 291
-lastUpdated: 2024-09-10T14:49:33.999Z
+status: up
+code: 200
+responseTime: 484
+lastUpdated: 2024-09-10T14:56:22.330Z
 startTime: 2024-09-09T07:09:08.237Z
 generator: Upptime <https://github.com/upptime/upptime>
