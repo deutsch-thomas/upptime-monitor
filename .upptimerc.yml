@@ -20,16 +20,12 @@ sites:
     maxResponseTime: 5000
   - name: Stage-BlueCtrl-CFE
     url: https://stage.bluectrl.cfe-computing.com
-  - name: Dev-BlueCtrl-CFE
-    url: https://dev.bluectrl.cfe-computing.com
   - name: Demo-BlueCtrl-CFE
     url: https://demo.bluectrl.cfe-computing.com
   - name: Live-API-BlueCtrl
     url: https://api.bluectrl.app/docs#/
   - name: API-BlueCtrl-CFE
     url: https://api.cfe-computing.com/docs
-  - name: Dev-API-BlueCtrl-CFE
-    url: https://dev.api.cfe-computing.com/docs
   - name: Stage-API-BlueCtrl-CFE
     url: https://stage.api.cfe-computing.com/docs
   - name: DemoAPI-BlueCtrl-CFE
