@@ -182,19 +182,19 @@
     "url": "https://api.bluectrl.app/docs#/",
     "icon": "https://icons.duckduckgo.com/ip3/api.bluectrl.app.ico",
     "slug": "live-api-blue-ctrl",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 553,
-    "timeDay": 569,
-    "timeWeek": 547,
-    "timeMonth": 548,
-    "timeYear": 553,
+    "time": 554,
+    "timeDay": 629,
+    "timeWeek": 565,
+    "timeMonth": 552,
+    "timeYear": 554,
     "dailyMinutesDown": {
-      "2025-02-07": 0
+      "2025-02-07": 11
     }
   },
   {
