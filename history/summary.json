@@ -106,10 +106,10 @@
     "url": "https://bluectrl.app",
     "icon": "https://icons.duckduckgo.com/ip3/bluectrl.app.ico",
     "slug": "live-blue-ctrl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
@@ -117,16 +117,18 @@
     "timeWeek": 188,
     "timeMonth": 205,
     "timeYear": 193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-28": 1
+    }
   },
   {
     "name": "BlueCtrl-CFE",
     "url": "https://bluectrl.cfe-computing.com",
     "icon": "https://icons.duckduckgo.com/ip3/bluectrl.cfe-computing.com.ico",
     "slug": "blue-ctrl-cfe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -136,6 +138,7 @@
     "timeMonth": 201,
     "timeYear": 175,
     "dailyMinutesDown": {
+      "2025-04-28": 0,
       "2024-11-09": 20,
       "2024-09-09": 119
     }
@@ -256,11 +259,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.api.cfe-computing.com.ico",
     "slug": "demo-api-blue-ctrl-cfe",
     "status": "up",
-    "uptime": "97.80%",
+    "uptime": "97.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.80%",
+    "uptimeYear": "97.81%",
     "time": 1396,
     "timeDay": 437,
     "timeWeek": 531,
