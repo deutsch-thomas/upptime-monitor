@@ -4,38 +4,35 @@ repo: upptime-monitor # The name of this repository
 
 sites:
   - name: Grafana
-    url: https://monitor.bluectrl.app/
+    url: https://grafana.monitor.bluectrl.at/
   - name: InfluxDB
-    url: https://monitor.bluectrl.app:8443/
+    url: https://influxdb.monitor.bluectrl.at/
   - name: RabbitMQ
-    url: https://monitor.bluectrl.app:15672/
+    url: https://rabbitmq.monitor.bluectrl.at/
   - name: Loki
-    url: https://monitor.bluectrl.app:3100/
+    url: https://loki.monitor.bluectrl.at//
     expectedStatusCodes:
       - 401
   - name: Live-BlueCtrl
-    url: https://bluectrl.app
-  - name: BlueCtrl-CFE
-    url: https://bluectrl.cfe-computing.com
-    maxResponseTime: 5000
-  - name: Stage-BlueCtrl-CFE
-    url: https://stage.bluectrl.cfe-computing.com
-  - name: Demo-BlueCtrl-CFE
-    url: https://demo.bluectrl.cfe-computing.com
+    url: https://bluectrl.at
   - name: Live-API-BlueCtrl
-    url: https://api.bluectrl.app/docs#/
-  - name: API-BlueCtrl-CFE
-    url: https://api.cfe-computing.com/docs
-  - name: Stage-API-BlueCtrl-CFE
-    url: https://stage.api.cfe-computing.com/docs
-  - name: DemoAPI-BlueCtrl-CFE
-    url: https://demo.api.cfe-computing.com/docs
+    url: https://api.bluectrl.at/docs#/
+  - name: Stage-BlueCtrl
+    url: https://stage.bluectrl.at
+  - name: Stage-API-BlueCtrl
+    url: https://stage.api.bluectrl.at/docs#/
+  - name: Demo-BlueCtrl
+    url: https://demo.bluectrl.at
+  - name: Stage-API-BlueCtrl
+    url: https://demo.api.bluectrl.at/docs#/
+  - name: V2-BlueCtrl
+    url: https://v2.bluectrl.at
     
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: uptime.cfe-computing.com
+  cname: uptime.monitor.bluectrl.at
   # baseUrl: /upptime-monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
