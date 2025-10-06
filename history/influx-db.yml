@@ -1,7 +1,7 @@
 url: https://influxdb.monitor.bluectrl.at/
-status: up
-code: 200
-responseTime: 424
-lastUpdated: 2025-10-05T23:02:05.005Z
+status: down
+code: 503
+responseTime: 6691
+lastUpdated: 2025-10-06T09:46:11.045Z
 startTime: 2024-09-09T07:09:07.608Z
 generator: Upptime <https://github.com/upptime/upptime>
