@@ -42,7 +42,7 @@
     "timeDay": 413,
     "timeWeek": 502,
     "timeMonth": 560,
-    "timeYear": 481,
+    "timeYear": 480,
     "dailyMinutesDown": {
       "2025-12-30": 136,
       "2025-10-06": 68,
@@ -104,9 +104,9 @@
     "url": "https://bluectrl.at",
     "icon": "https://icons.duckduckgo.com/ip3/bluectrl.at.ico",
     "slug": "live-blue-ctrl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -116,6 +116,7 @@
     "timeMonth": 204,
     "timeYear": 208,
     "dailyMinutesDown": {
+      "2026-01-07": 0,
       "2025-10-29": 354,
       "2025-04-28": 29
     }
@@ -146,11 +147,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage.bluectrl.at.ico",
     "slug": "stage-blue-ctrl",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.84%",
     "time": 236,
     "timeDay": 501,
     "timeWeek": 189,
