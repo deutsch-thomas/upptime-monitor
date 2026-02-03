@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 826,
-    "timeDay": 809,
-    "timeWeek": 1071,
-    "timeMonth": 972,
-    "timeYear": 853,
+    "timeDay": 688,
+    "timeWeek": 1009,
+    "timeMonth": 957,
+    "timeYear": 854,
     "dailyMinutesDown": {
       "2025-12-30": 137,
       "2025-08-12": 22,
@@ -23,8 +23,7 @@
       "2025-06-02": 40,
       "2025-04-15": 29,
       "2025-03-06": 23,
-      "2025-02-13": 39,
-      "2025-02-03": 20
+      "2025-02-13": 39
     }
   },
   {
@@ -39,9 +38,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 470,
-    "timeDay": 465,
-    "timeWeek": 589,
-    "timeMonth": 569,
+    "timeDay": 406,
+    "timeWeek": 548,
+    "timeMonth": 564,
     "timeYear": 492,
     "dailyMinutesDown": {
       "2025-12-30": 136,
@@ -51,8 +50,7 @@
       "2025-08-04": 58,
       "2025-07-14": 40,
       "2025-06-02": 40,
-      "2025-05-18": 19,
-      "2025-02-03": 44
+      "2025-05-18": 19
     }
   },
   {
@@ -66,17 +64,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 468,
-    "timeDay": 477,
-    "timeWeek": 580,
-    "timeMonth": 568,
-    "timeYear": 491,
+    "time": 469,
+    "timeDay": 406,
+    "timeWeek": 568,
+    "timeMonth": 560,
+    "timeYear": 492,
     "dailyMinutesDown": {
       "2025-12-30": 136,
       "2025-08-12": 22,
       "2025-08-06": 18,
-      "2025-06-02": 40,
-      "2025-02-03": 20
+      "2025-06-02": 40
     }
   },
   {
@@ -91,10 +88,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 429,
-    "timeDay": 470,
-    "timeWeek": 900,
-    "timeMonth": 584,
-    "timeYear": 445,
+    "timeDay": 400,
+    "timeWeek": 549,
+    "timeMonth": 576,
+    "timeYear": 446,
     "dailyMinutesDown": {
       "2025-12-30": 135
     }
@@ -111,9 +108,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.92%",
     "time": 200,
-    "timeDay": 159,
+    "timeDay": 132,
     "timeWeek": 264,
-    "timeMonth": 228,
+    "timeMonth": 226,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2026-01-07": 46,
@@ -133,9 +130,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 571,
-    "timeDay": 459,
-    "timeWeek": 677,
-    "timeMonth": 614,
+    "timeDay": 494,
+    "timeWeek": 634,
+    "timeMonth": 605,
     "timeYear": 577,
     "dailyMinutesDown": {
       "2025-02-09": 27
@@ -152,11 +149,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.83%",
-    "time": 235,
-    "timeDay": 166,
-    "timeWeek": 408,
-    "timeMonth": 228,
-    "timeYear": 235,
+    "time": 234,
+    "timeDay": 152,
+    "timeWeek": 399,
+    "timeMonth": 219,
+    "timeYear": 234,
     "dailyMinutesDown": {
       "2026-01-12": 79,
       "2025-10-29": 351
@@ -174,9 +171,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 564,
-    "timeDay": 484,
-    "timeWeek": 660,
-    "timeMonth": 591,
+    "timeDay": 475,
+    "timeWeek": 616,
+    "timeMonth": 583,
     "timeYear": 564,
     "dailyMinutesDown": {}
   },
@@ -192,9 +189,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 184,
-    "timeDay": 36,
-    "timeWeek": 98,
-    "timeMonth": 224,
+    "timeDay": 42,
+    "timeWeek": 96,
+    "timeMonth": 199,
     "timeYear": 184,
     "dailyMinutesDown": {
       "2025-10-29": 340
@@ -212,9 +209,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 564,
-    "timeDay": 484,
-    "timeWeek": 660,
-    "timeMonth": 591,
+    "timeDay": 475,
+    "timeWeek": 616,
+    "timeMonth": 583,
     "timeYear": 564,
     "dailyMinutesDown": {}
   },
@@ -229,11 +226,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 169,
-    "timeDay": 145,
-    "timeWeek": 183,
-    "timeMonth": 143,
-    "timeYear": 169,
+    "time": 171,
+    "timeDay": 486,
+    "timeWeek": 149,
+    "timeMonth": 157,
+    "timeYear": 171,
     "dailyMinutesDown": {
       "2025-10-29": 353
     }
