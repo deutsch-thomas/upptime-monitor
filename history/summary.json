@@ -168,9 +168,9 @@
     "url": "https://stage.api.bluectrl.at/docs#/",
     "icon": "https://icons.duckduckgo.com/ip3/stage.api.bluectrl.at.ico",
     "slug": "stage-api-blue-ctrl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -179,7 +179,9 @@
     "timeWeek": 655,
     "timeMonth": 605,
     "timeYear": 573,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-18": 0
+    }
   },
   {
     "name": "Demo-BlueCtrl",
@@ -206,10 +208,10 @@
     "url": "https://demo.api.bluectrl.at/docs#/",
     "icon": "https://icons.duckduckgo.com/ip3/demo.api.bluectrl.at.ico",
     "slug": "stage-api-blue-ctrl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 573,
@@ -217,7 +219,9 @@
     "timeWeek": 655,
     "timeMonth": 605,
     "timeYear": 573,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-18": 1
+    }
   },
   {
     "name": "V2-BlueCtrl",
